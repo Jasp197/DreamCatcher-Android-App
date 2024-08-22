@@ -17,6 +17,7 @@ data class Dream(
     var entries = listOf(DreamEntry(kind = DreamEntryKind.CONCEIVED, dreamId = id))
     val isFulfilled get() = entries.any { it.kind == DreamEntryKind.FULFILLED }
     val isDeferred get() = entries.any { it.kind == DreamEntryKind.DEFERRED }
+    val photoFileName get() = "IMG_$id.JPG"
 }
 
 @Entity(tableName = "dream_entry")
