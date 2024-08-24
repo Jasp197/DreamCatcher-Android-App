@@ -13,3 +13,9 @@ DreamCatcher is a mobile application that empowers users to document and track t
 - **Photo Integration**: Capture and attach photos to dreams, with zoom functionality for better viewing.
 
 - **Share Dreams**: Easily share your dreams with others via implicit intents.
+
+## How to Use
+1. **Add a Dream**: Use the "Add Dream" menu option to start documenting your aspirations.
+2. **Track Progress**: Record reflections and updates to keep track of your journey.
+3. **Manage Dreams**: Swipe to delete dreams or reflections and keep your list organized.
+4. **Capture Moments**: Attach photos to your dreams to visualize your progress.
